@@ -1,6 +1,6 @@
 # Persoanl Discord Music Bot
 
-### Made this while I was bored.
+Made this while I was bored.
 
 ## Packages used
 
@@ -8,6 +8,12 @@
 
 ```
 $ npm i discordjs
+```
+
+- [discord.js/voice](https://github.com/discordjs/discord.js/tree/main/packages/voice)
+
+```
+$ npm i discordjs@voice
 ```
 
 ### [discord-player](https://github.com/Androz2091/discord-player)
