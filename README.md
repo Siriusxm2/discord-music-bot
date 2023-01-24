@@ -10,17 +10,19 @@ Made this while I was bored.
 $ npm i discordjs
 ```
 
-- [discord.js/voice](https://github.com/discordjs/discord.js/tree/main/packages/voice)
-
-```
-$ npm i discordjs@voice
-```
+- #### [discord-api-types](https://github.com/discordjs/discord-api-types)
+- #### [discord.js/voice](https://github.com/discordjs/discord.js/tree/main/packages/voice)
+- #### [discord.js/opus](https://github.com/discordjs/discord.js/tree/main/packages/opus)
+- #### [discord.js/rest](https://github.com/discordjs/discord.js/tree/main/packages/rest)
+- #### [discord.js/builders](https://github.com/discordjs/discord.js/tree/main/packages/builders)
 
 ### [discord-player](https://github.com/Androz2091/discord-player)
 
 ```
 $ npm i discord-player
 ```
+
+- #### [discord-player/equalizer](https://github.com/Androz2091/discord-player/tree/master/packages/equalizer)
 
 ### FFmpeg
 
