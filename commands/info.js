@@ -28,8 +28,14 @@ module.exports = {
           .setThumbnail(currentSong.thumbnail)
           .addFields(
             {
+              name: "Author",
+              value: `${currentSong.author}`,
+              inline: true,
+            },
+            {
               name: "Requested By",
               value: `<@${currentSong.requestedBy.id}>`,
+              inline: true,
             },
             {
               name: "Progress Bar",
